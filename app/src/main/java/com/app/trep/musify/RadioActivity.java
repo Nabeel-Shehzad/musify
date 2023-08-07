@@ -29,8 +29,8 @@ public class RadioActivity extends AppCompatActivity {
         radioName = findViewById(R.id.song_title);
 
         radioList = new ArrayList<>();
-        radioList.add(new RadioModel("FF","http://mp3.ffh.de/radioffh/hqlivestream.mp3"));
-        radioList.add(new RadioModel("HIT RADIO FF","http://mp3.ffh.de/radiofth/hqlivestream.mp3"));
+        radioList.add(new RadioModel("FF","https://mp3.ffh.de/radioffh/hqlivestream.mp3"));
+        radioList.add(new RadioModel("HIT RADIO FF","https://mp3.ffh.de/radiofth/hqlivestream.mp3"));
 
 
 
